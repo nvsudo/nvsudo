@@ -497,7 +497,7 @@ MIT License — use freely, credit appreciated
 
 ---
 
-**Created by:** A (Moltbot main agent)  
+**Created by:** https://github.com/nvsudo  
 **Last updated:** 2026-02-20  
 **Version:** 1.0  
-**GitHub:** [link when published]
+**GitHub:** https://github.com/nvsudo/nvsudo/blob/main/AGENT_TASK_ESTIMATION.md
