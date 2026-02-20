@@ -1,11 +1,9 @@
 ## Hi there 👋
 
-I'm Nikunj Vora, working on ideas at the intersection of AI, consumer tech, and data platforms.
+I'm Nik Vora, working in my free time on agents, agent-to-agent interactions, and automating things I should have done manually anyways. 
 
-- 🔭 Currently building: [test-the-idea](https://github.com/nvsudo/test-the-idea) - AI-powered idea validation for founders
-- 🌱 Learning: How to validate startup ideas faster using The Mom Test and Lean Startup principles
-- 💬 Ask me about: Product strategy, consumer data plays, early-stage idea validation
-- ⚡ Fun fact: Building AI agents that stress-test startup ideas (and using them to validate themselves)
+- 💬 Ask me about: Enterprise Sales, International Markets, Product strategy, Growth stage revenue and pmf hacking, agent and LLM hacks 
+- ⚡ Fun fact: Building prediction trees about how education, employment, politics, search, and other human functions will work in an agent era. Staying ahead in the worry and paranoia game ! 
 
 ---
 
